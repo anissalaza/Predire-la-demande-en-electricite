@@ -12,7 +12,7 @@ Le langage informatique utilisé est _Python_.
 
 * Outils utilisés :
   * Jupyter et JupyterLab
-  * Les librairies Python : Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Pandasplotting, pmdARIMA, Scipy, Sklearn et Pingouin.
+  * Les librairies Python : Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Pandasplotting, pmdARIMA, Scipy, Sklearn et Pingouin
   * PowerPoint  
 
 Les deux scripts pourront ainsi être ouverts grâce à Jupyter ou JupyterLab, au choix.  
